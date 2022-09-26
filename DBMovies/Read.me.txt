@@ -1,0 +1,4 @@
+Apache netbeans-12.6
+MySQL database-8.0
+-->The output folder contains the snap shorts of the mysql database and the front end.
+-->The DBMovies folder contains the front end java code for creating table,Inserting,Updating the values in the table. 
